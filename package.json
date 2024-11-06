@@ -1,0 +1,22 @@
+{
+  "name": "food--recommendation--site",
+  "version": "1.0.0",
+  "description": "recommendig food type to partience with diffrent alergies and sicknesses .giving them the better meal for good health and better livung conditions",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass  .././sass/main.scss .././static/styles/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clovis739/Food--Re-commendation.git"
+  },
+  "author": "Clovis and Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clovis739/Food--Re-commendation/issues"
+  },
+  "homepage": "https://github.com/clovis739/Food--Re-commendation#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
